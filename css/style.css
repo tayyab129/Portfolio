@@ -362,8 +362,8 @@ button:focus {
 }
 
 .item {
-    float: right;
-    margin-right: 20 px;
+    float: center;
+    margin-left: 0px;
 }
 
 .prt_menu_wrapper a.prt_top {
@@ -1925,6 +1925,7 @@ button.prt_btn.prt_btn_portfolio {
 
     .prt_services_slider_wrapper {
         height: 1430px;
+        margin-bottom: 115px;
     }
 
     .prt_client_slider_wrapper {
