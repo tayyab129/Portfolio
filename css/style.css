@@ -260,7 +260,7 @@ button:focus {
 
 .prt_home_wrapper h1 {
     position: absolute;
-    top: 27%;
+    top: 18%;
     font-size: 120px;
     font-weight: bold;
     -webkit-background-clip: text;
@@ -1677,8 +1677,14 @@ button.prt_btn.prt_btn_portfolio {
         background-position: unset;
     }
 
+
     .prt_services_slider_wrapper {
-        height: 1410px;
+        height: 1672px;
+    }
+
+    .row {
+        display: flex;
+        justify-content: center;
     }
 
     .row.rowResponsive1 {
@@ -1699,7 +1705,7 @@ button.prt_btn.prt_btn_portfolio {
 
     .prt_about_learnbox_right:after {
         top: -20px;
-        left: -30px;
+        left: -15px;
         margin-top: 0
     }
 
@@ -1757,8 +1763,8 @@ button.prt_btn.prt_btn_portfolio {
     }
 
     .prt_home_wrapper h1 {
-        font-size: 90px;
-        margin: 0px;
+        font-size: 70px;
+        margin-top: 3%;
         text-align: center;
     }
 
@@ -1768,8 +1774,8 @@ button.prt_btn.prt_btn_portfolio {
     }
 
     .prt_about_learnbox_right:after {
-        top: 0%;
-        left: 0%;
+        top: -18%;
+        left: -2%;
         margin-top: 0
     }
 
@@ -1801,7 +1807,7 @@ button.prt_btn.prt_btn_portfolio {
     }
 
     .prt_services_slider_wrapper {
-        height: 1420px;
+        height: 1545px;
     }
 
     .prt_services_slider_imgs {
@@ -1831,7 +1837,7 @@ button.prt_btn.prt_btn_portfolio {
 
 @media(max-width:580px) {
     .prt_services_slider_wrapper {
-        height: 1520px;
+        height: 1535px;
     }
 }
 
@@ -1924,7 +1930,7 @@ button.prt_btn.prt_btn_portfolio {
     }
 
     .prt_services_slider_wrapper {
-        height: 1430px;
+        height: 1415px;
         margin-bottom: 115px;
     }
 
@@ -1950,6 +1956,6 @@ button.prt_btn.prt_btn_portfolio {
     }
 
     .prt_services_slider_wrapper {
-        height: 1350px;
+        height: 1365px;
     }
 }
