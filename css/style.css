@@ -1765,7 +1765,7 @@ button.prt_btn.prt_btn_portfolio {
 
     .prt_home_wrapper h1 {
         font-size: 70px;
-        margin-top: 11%;
+        margin-top: 10%;
         text-align: center;
     }
 
@@ -1867,6 +1867,7 @@ button.prt_btn.prt_btn_portfolio {
 
     .prt_home_wrapper h1 {
         font-size: 50px;
+        top: 26%;
     }
 
     .prt_counter_box {
