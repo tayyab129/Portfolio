@@ -258,9 +258,15 @@ button:focus {
     object-fit: cover;
 }
 
+.center {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .prt_home_wrapper h1 {
     position: absolute;
-    top: 16%;
     font-size: 120px;
     font-weight: bold;
     -webkit-background-clip: text;
